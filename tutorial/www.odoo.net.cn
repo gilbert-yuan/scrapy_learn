@@ -1,0 +1,1670 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-dir="ltr" style="direction: ltr;"  >
+<head>
+	<title>版块 | Odoo 中文社区</title>
+	<meta name="viewport" content="width&#x3D;device-width, initial-scale&#x3D;1.0" />
+	<meta name="content-type" content="text/html; charset=UTF-8" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="mobile-web-app-capable" content="yes" />
+	<meta property="og:site_name" content="Odoo 中文社区" />
+	<meta name="msapplication-badge" content="frequency=30; polling-uri=https://odoo.net.cn/sitemap.xml" />
+	<meta name="keywords" content="Odoo 中文,OpenERP 中文,Odoo,Odoo社区,Odoo中文社区,OpenERP,Odoo 中国,Odoo中国,Odoo培训,Odoo 二次开发,Odoo开发,Odoo教程" />
+	<meta name="title" content="Odoo 中文社区" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Categories" />
+	<meta property="og:url" content="https://odoo.net.cn/categories" />
+	<meta name="description" content="Odoo 在线中文社区- Odoo技术，功能，文档，培训，合作交流" />
+	<meta property="og:description" content="Odoo 在线中文社区- Odoo技术，功能，文档，培训，合作交流" />
+	
+	<link rel="stylesheet" type="text/css" href="/assets/stylesheet.css?v=g2dms8bc29c" />
+	<link id="bootswatchCSS" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico?v=g2dms8bc29c" />
+	<link rel="manifest" href="/manifest.json" />
+	<link rel="search" type="application/opensearchdescription+xml" title="Odoo 中文社区" href="/osd.xml" />
+	<link rel="prefetch stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+	<link rel="prefetch" href="/assets/src/modules/composer.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/uploads.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/drafts.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/tags.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/categoryList.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/resize.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/src/modules/composer/autocomplete.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/templates/composer.tpl?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/language/zh-CN/topic.json?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/language/zh-CN/modules.json?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/language/zh-CN/tags.json?v=g2dms8bc29c" />
+	<link rel="stylesheet" href="/plugins/nodebb-plugin-emoji/emoji/styles.css?v=g2dms8bc29c" />
+	<link rel="prefetch stylesheet" href="/plugins/nodebb-plugin-markdown/styles/railscasts.css" />
+	<link rel="prefetch" href="/assets/src/modules/highlight.js?v=g2dms8bc29c" />
+	<link rel="prefetch" href="/assets/language/zh-CN/markdown.json?v=g2dms8bc29c" />
+	
+
+	<script>
+		var RELATIVE_PATH = "";
+		var config = JSON.parse('{"relative_path":"","upload_url":"/assets/uploads","siteTitle":"Odoo \u4E2D\u6587\u793E\u533A","browserTitle":"Odoo \u4E2D\u6587\u793E\u533A","titleLayout":"&#123;pageTitle&#125; | &#123;browserTitle&#125;","showSiteTitle":true,"minimumTitleLength":"3","maximumTitleLength":"255","minimumPostLength":"8","maximumPostLength":"32767","minimumTagsPerTopic":0,"maximumTagsPerTopic":5,"minimumTagLength":"3","maximumTagLength":"15","useOutgoingLinksPage":false,"allowGuestHandles":true,"allowFileUploads":true,"allowTopicsThumbnail":false,"usePagination":false,"disableChat":false,"disableChatMessageEditing":false,"maximumChatMessageLength":9007199254740991,"socketioTransports":["polling","websocket"],"websocketAddress":"","maxReconnectionAttempts":5,"reconnectionDelay":1500,"topicsPerPage":20,"postsPerPage":20,"maximumFileSize":"20480","theme:id":"nodebb-theme-persona","theme:src":"","defaultLang":"zh-CN","userLang":"en-GB","loggedIn":false,"uid":0,"cache-buster":"v=g2dms8bc29c","requireEmailConfirmation":true,"topicPostSort":"oldest_to_newest","categoryTopicSort":"newest_to_oldest","csrf_token":"PRtsaZ7p-MLuh5IuUpNJhmzLJk2FvmU4mgc4","searchEnabled":true,"bootswatchSkin":"flatly","defaultBootswatchSkin":"flatly","enablePostHistory":true,"notificationAlertTimeout":5000,"timeagoCutoff":"","cookies":{"enabled":false,"message":"[[global:cookies.message]]","dismiss":"[[global:cookies.accept]]","link":"[[global:cookies.learn_more]]"},"acpLang":"en-GB","topicSearchEnabled":false,"delayImageLoading":true,"hideSubCategories":false,"hideCategoryLastPost":false,"enableQuickReply":false,"composer-default":{},"markdown":{"highlight":1,"theme":"railscasts.css"}}');
+		var app = {
+			template: "categories",
+			user: JSON.parse('{"uid":0,"username":"Guest","userslug":"","fullname":"Guest","email":"","picture":"","status":"offline","reputation":0,"email:confirmed":false,"isAdmin":false,"isGlobalMod":false,"isMod":false,"privileges":{"chat":false,"upload:post:image":false,"upload:post:file":false,"search:content":false,"search:users":false,"search:tags":true},"isEmailConfirmSent":false}')
+		};
+	</script>
+
+	
+	
+</head>
+
+<body class="page-categories page-status-200 skin-flatly">
+	<nav id="menu" class="slideout-menu hidden">
+		<div class="menu-profile">
+			
+		</div>
+
+		<section class="menu-section" data-section="navigation">
+			<h3 class="menu-section-title">Navigation</h3>
+			<ul class="menu-section-list"></ul>
+		</section>
+
+		
+	</nav>
+	<nav id="chats-menu" class="slideout-menu hidden">
+		
+	</nav>
+
+	<main id="panel" class="slideout-panel">
+		<nav class="navbar navbar-default navbar-fixed-top header" id="header-menu" component="navbar">
+			<div class="container">
+							<div class="navbar-header">
+				<button type="button" class="navbar-toggle pull-left" id="mobile-menu">
+					<span component="notifications/icon" class="notification-icon fa fa-fw fa-bell-o unread-count" data-content="0"></span>
+					<i class="fa fa-lg fa-bars"></i>
+				</button>
+				<button type="button" class="navbar-toggle hidden" id="mobile-chats">
+					<span component="chat/icon" class="notification-icon fa fa-fw fa-comments unread-count" data-content="0"></span>
+					<i class="fa fa-lg fa-comment-o"></i>
+				</button>
+
+				
+				
+				<a href="/">
+					<h1 class="navbar-brand forum-title">Odoo 中文社区</h1>
+				</a>
+				
+
+				<div component="navbar/title" class="visible-xs hidden">
+					<span></span>
+				</div>
+			</div>
+
+			<div id="nav-dropdown" class="hidden-xs">
+				
+				
+				<ul id="logged-out-menu" class="nav navbar-nav navbar-right">
+					
+					<li>
+						<a href="/register">
+							<i class="fa fa-pencil visible-xs-inline"></i>
+							<span>Register</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="/login">
+							<i class="fa fa-sign-in visible-xs-inline"></i>
+							<span>Login</span>
+						</a>
+					</li>
+				</ul>
+				
+				
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<form id="search-form" class="navbar-form navbar-right hidden-xs" role="search" method="GET">
+							<button id="search-button" type="button" class="btn btn-link"><i class="fa fa-search fa-fw" title="Search"></i></button>
+							<div class="hidden" id="search-fields">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="Search" name="query" value="">
+									<a href="#"><i class="fa fa-gears fa-fw advanced-search-link"></i></a>
+								</div>
+								<button type="submit" class="btn btn-default hide">Search</button>
+							</div>
+						</form>
+					</li>
+					<li class="visible-xs" id="search-menu">
+						<a href="/search">
+							<i class="fa fa-search fa-fw"></i> Search
+						</a>
+					</li>
+				</ul>
+				
+
+				<ul class="nav navbar-nav navbar-right hidden-xs">
+					<li>
+						<a href="#" id="reconnect" class="hide" title="Connection to Odoo 中文社区 has been lost, attempting to reconnect...">
+							<i class="fa fa-check"></i>
+						</a>
+					</li>
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right pagination-block visible-lg visible-md">
+					<li class="dropdown">
+						<a><i class="fa fa-angle-double-up pointer fa-fw pagetop"></i></a>
+						<a><i class="fa fa-angle-up pointer fa-fw pageup"></i></a>
+
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="pagination-text"></span>
+						</a>
+
+						<a><i class="fa fa-angle-down pointer fa-fw pagedown"></i></a>
+						<a><i class="fa fa-angle-double-down pointer fa-fw pagebottom"></i></a>
+
+						<div class="progress-container">
+							<div class="progress-bar"></div>
+						</div>
+
+						<ul class="dropdown-menu" role="menu">
+							<li>
+  								<input type="text" class="form-control" id="indexInput" placeholder="Enter index">
+  							</li>
+						</ul>
+					</li>
+				</ul>
+
+				<ul id="main-nav" class="nav navbar-nav">
+					
+					
+					<li class="">
+						<a class="navigation-link" href="/categories" title="Categories" >
+							
+							<i class="fa fa-fw fa-list" data-content=""></i>
+							
+
+							
+							<span class="visible-xs-inline">Categories</span>
+							
+						</a>
+					</li>
+					
+					
+					
+					
+					
+					<li class="">
+						<a class="navigation-link" href="/tags" title="Tags" >
+							
+							<i class="fa fa-fw fa-tags" data-content=""></i>
+							
+
+							
+							<span class="visible-xs-inline">Tags</span>
+							
+						</a>
+					</li>
+					
+					
+					
+					<li class="">
+						<a class="navigation-link" href="/popular" title="Popular" >
+							
+							<i class="fa fa-fw fa-fire" data-content=""></i>
+							
+
+							
+							<span class="visible-xs-inline">Popular</span>
+							
+						</a>
+					</li>
+					
+					
+					
+					<li class="">
+						<a class="navigation-link" href="/users" title="Users" >
+							
+							<i class="fa fa-fw fa-user" data-content=""></i>
+							
+
+							
+							<span class="visible-xs-inline">Users</span>
+							
+						</a>
+					</li>
+					
+					
+					
+					<li class="">
+						<a class="navigation-link" href="/groups" title="Groups" >
+							
+							<i class="fa fa-fw fa-group" data-content=""></i>
+							
+
+							
+							<span class="visible-xs-inline">Groups</span>
+							
+						</a>
+					</li>
+					
+					
+					
+					
+				</ul>
+
+				
+			</div>
+
+			</div>
+		</nav>
+		<div class="container" id="content">
+			<noscript>
+		<div class="alert alert-danger">
+			<p>
+				Your browser does not seem to support JavaScript. As a result, your viewing experience will be diminished, and you may not be able to execute some actions.
+			</p>
+			<p>
+				Please download a browser that supports JavaScript, or enable it if it's disabled (i.e. NoScript).
+			</p>
+		</div>
+	</noscript>
+
+<ol class="breadcrumb">
+	
+	<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb" >
+		<a href="/" itemprop="url">
+			<span itemprop="title">
+				Home
+				
+			</span>
+		</a>
+	</li>
+	
+	<li component="breadcrumb/current" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb" class="active">
+		
+			<span itemprop="title">
+				Categories
+				
+				
+				
+				
+			</span>
+		
+	</li>
+	
+</ol>
+
+<div widget-area="header">
+	
+	<style type="text/css">
+ div.alert-info img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+</style>
+<div class="alert ui-draggable-handle alert-info">
+<img src="/assets/images/wechat_openerp.jpg"  width="100">
+<p>
+Odoo中文社区可以通过以下三个域名访问：shine-it.net , odoocn.org，odoo.net.cn
+</p>
+<p>原论坛用户的基本信息和发帖这里都予以保留，<b>请注意</b>：原论坛用户<b>无需</b>重新注册新用户，但是您的密码需要<a target="_blank" href="http://odoo.net.cn/reset">重置</a></p>
+<p>开发人员可以登录gitter讨论组: <a target="blank" href="http://gitter.im/odoo-china/Talk"> http://gitter.im/odoo-china/Talk</a>, 需要github账号
+<p>如果您登录系统碰到问题，请在微信公众号留言：</p>
+
+</div>
+	
+</div>
+<div class="row">
+	<div class="col-lg-12">
+		<h1 class="categories-title">Categories</h1>
+		<ul class="categories" itemscope itemtype="http://www.schema.org/ItemList">
+			
+			<li component="categories/category" data-cid="2" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="公告发布">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #86C1B9; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/2/公告发布" itemprop="url">
+
+公告发布
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/23140">
+				<small class="timeago" title="2017-05-07T14:22:10.396Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="93">93</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="669">669</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #86C1B9">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/yangxunbo">
+				
+				<span class="user-icon user-img" title="yangxunbo" style="background-color: #1b5e20;">Y</span>
+				
+			</a>
+			<a class="permalink" href="/topic/4526/odoo-上海开源开发者聚会-5月6日举办成功/14">
+				<small class="timeago" title="2017-05-07T14:22:10.396Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			@digitalsatori 感谢校长的整理和各位大咖的整体与提供，内容非常好，希望未来这样的活动交流成为常态，相互学习共同成长！
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="19" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 培训">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #56a5f5; color: #FFFFFF;">
+			<i class="fa fa-fw fa-users"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/19/odoo-培训" itemprop="url">
+
+Odoo 培训
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/24353">
+				<small class="timeago" title="2018-01-11T07:03:21.823Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="11">11</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="29">29</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #56a5f5">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/digitalsatori">
+				
+				<img class="user-img" title="digitalsatori" alt="digitalsatori" src="/uploads/profile/1-profileimg.jpg">
+				
+			</a>
+			<a class="permalink" href="/topic/4884/odoo-库存详解-jeffery/1">
+				<small class="timeago" title="2018-01-11T07:03:21.823Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			又翻到一个好东西，Jeffery3年前分享的Odoo库存详解。写得很全，对学习Odoo很有帮助，分享一下
+0_1515654194332_odoo_wms_jeffery.pdf
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="3" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 开发与实施交流">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/3/odoo-开发与实施交流" itemprop="url">
+
+Odoo 开发与实施交流
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25631">
+				<small class="timeago" title="2018-08-23T01:34:44.797Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="1904">1904</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="9631">9631</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/joshua">
+				
+				<img class="user-img" title="Joshua" alt="Joshua" src="/assets/uploads/profile/457-profileavatar.jpeg">
+				
+			</a>
+			<a class="permalink" href="/topic/5209/odoo-如何生成流水号/2">
+				<small class="timeago" title="2018-08-23T01:34:44.797Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			可以使用Odoo的sequence，以purchase为例。
+
+创建采购单的时候自动获取流水号
+ @api.model
+    def create(self, vals):
+        if vals.get('name', 'New') == 'New':
+            vals['name'] = self.env['ir.sequence'].next_by_code('purchase.order') or '/'
+        return super(PurchaseOrder, self).create(vals)
+
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="16" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="GoodERP 专区">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF; background-image: url(/uploads/category/category-16.png); background-size: cover;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/16/gooderp-专区" itemprop="url">
+
+GoodERP 专区
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				<p>也许是中国使用最多的开源ERP</p>
+
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25502">
+				<small class="timeago" title="2018-08-01T01:39:04.763Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="14">14</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="51">51</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/digitalsatori">
+				
+				<img class="user-img" title="digitalsatori" alt="digitalsatori" src="/uploads/profile/1-profileimg.jpg">
+				
+			</a>
+			<a class="permalink" href="/topic/5190/odoo-框架-mobile-view-小试牛刀/5">
+				<small class="timeago" title="2018-08-01T01:39:04.763Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			@静静 很酷啊。
+gif应该可以上传了，你再传一次吧。
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="4" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 文档合作">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #ab1290; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/4/odoo-文档合作" itemprop="url">
+
+Odoo 文档合作
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25060">
+				<small class="timeago" title="2018-06-11T02:42:53.831Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="67">67</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="462">462</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #ab1290">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/sarahdddd">
+				
+				<span class="user-icon user-img" title="sarahdddd" style="background-color: #673ab7;">S</span>
+				
+			</a>
+			<a class="permalink" href="/topic/5095/为什么我看不见链接呢/1">
+				<small class="timeago" title="2018-06-11T02:42:53.831Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			回复: Odoo每天学习10分钟免费视频活动开始了
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="5" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Python 开发">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #A16946; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/5/python-开发" itemprop="url">
+
+Python 开发
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25630">
+				<small class="timeago" title="2018-08-22T03:19:22.774Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="42">42</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="185">185</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #A16946">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/joshua">
+				
+				<img class="user-img" title="Joshua" alt="Joshua" src="/assets/uploads/profile/457-profileavatar.jpeg">
+				
+			</a>
+			<a class="permalink" href="/topic/5217/ubuntu环境-odoo框架-在我本地环境-import自定义的模块没有问题-但是到服务器环境就提示报错-importerror-no-module-named-xxx/6">
+				<small class="timeago" title="2018-08-22T03:19:22.774Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			不知道你说的模块是python的模块还是odoo的模块，如果你是odoo的模块，可以尝试
+from odoo.addons.odoo_test import excelTool
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="6" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 新手求助">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #004c66; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/6/odoo-新手求助" itemprop="url">
+
+Odoo 新手求助
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25629">
+				<small class="timeago" title="2018-08-21T03:15:25.539Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="2163">2163</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="10036">10036</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #004c66">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/like_odoo">
+				
+				<span class="user-icon user-img" title="like_odoo" style="background-color: #ff5722;">L</span>
+				
+			</a>
+			<a class="permalink" href="/topic/5220/日历里面创建一个事项-重复每天执行-循环次数n次-占用内存吗/1">
+				<small class="timeago" title="2018-08-21T03:15:25.539Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			
+日历里面创建一个事项 重复每天执行 ，循环次数N次，除了第一条会在数据库创建，其他的都是动态生成的（没有在数据库存储，是根据第一条生成的）， 那么问题来了 动态生成的会很影响内存吗？  odoo 有没有做什么处理 比如第一次查询完 就释放之类的
+
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="7" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="集思广益">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #ab1290; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/7/集思广益" itemprop="url">
+
+集思广益
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25550">
+				<small class="timeago" title="2018-08-07T04:26:25.790Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="92">92</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="449">449</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #ab1290">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/ap1689">
+				
+				<span class="user-icon user-img" title="ap1689" style="background-color: #2196f3;">A</span>
+				
+			</a>
+			<a class="permalink" href="/topic/5194/hexya-长的很像odoo/13">
+				<small class="timeago" title="2018-08-07T04:26:25.790Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			谢谢！
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="8" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Linux使用及技巧">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/8/linux使用及技巧" itemprop="url">
+
+Linux使用及技巧
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/24448">
+				<small class="timeago" title="2018-03-02T11:19:38.010Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="16">16</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="50">50</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/保定-粉刷匠">
+				
+				<img class="user-img" title="保定-粉刷匠" alt="保定-粉刷匠" src="/assets/uploads/profile/1494-profileavatar.jpeg">
+				
+			</a>
+			<a class="permalink" href="/topic/4914/ubuntu-能ping通ip-不能上网/4">
+				<small class="timeago" title="2018-03-02T11:19:38.010Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			对，就是这样。
+先获得权限，然后修改。
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="18" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Frappé&#x2F;ERPNext">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #004c66; color: #FFFFFF; background-image: url(/uploads/category/category-18.svg); background-size: cover;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/18/frappé-erpnext" itemprop="url">
+
+Frappé&#x2F;ERPNext
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/22642">
+				<small class="timeago" title="2017-01-07T14:12:56.080Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="1">1</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="4">4</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #004c66">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/wjfonhand">
+				
+				<img class="user-img" title="wjfonhand" alt="wjfonhand" src="/uploads/profile/28-profileimg.jpg">
+				
+			</a>
+			<a class="permalink" href="/topic/4388/erpnext-对odoo社区的倡议书/4">
+				<small class="timeago" title="2017-01-07T14:12:56.080Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			为什么想到玩这个了？
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="9" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="技术之美">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #004c66; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/9/技术之美" itemprop="url">
+
+技术之美
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="22">22</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="86">86</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #004c66">
+	
+
+	
+	<div component="category/posts">
+		<div class="post-content">
+			No new posts.
+		</div>
+	</div>
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="10" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 新闻">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/10/odoo-新闻" itemprop="url">
+
+Odoo 新闻
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25419">
+				<small class="timeago" title="2018-07-19T05:20:21.686Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="112">112</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="478">478</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/卓忆">
+				
+				<img class="user-img" title="卓忆" alt="卓忆" src="/uploads/profile/2738-profileimg.jpg">
+				
+			</a>
+			<a class="permalink" href="/topic/5165/odoo-v12-新特性-preview-add-control-create-tags-to-customize-add-a-line/3">
+				<small class="timeago" title="2018-07-19T05:20:21.686Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			@digitalsatori  
+测试中发现，按下Alt 键，现在还能显示 可用的快捷键：
+
+另外新增加的 Section 和 Note 在打印中 都会输出：
+
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="11" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 系统测试">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #A1B56C; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/11/odoo-系统测试" itemprop="url">
+
+Odoo 系统测试
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="107">107</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="517">517</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #A1B56C">
+	
+
+	
+	<div component="category/posts">
+		<div class="post-content">
+			No new posts.
+		</div>
+	</div>
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="12" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 安装指南">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/12/odoo-安装指南" itemprop="url">
+
+Odoo 安装指南
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25371">
+				<small class="timeago" title="2018-07-14T07:25:11.829Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="350">350</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="2061">2061</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/eillion-deamon">
+				
+				<img class="user-img" title="Eillion Deamon" alt="Eillion Deamon" src="/assets/uploads/profile/9178-profileavatar.png">
+				
+			</a>
+			<a class="permalink" href="/topic/4279/win10-64位下如何安装odoo10/4">
+				<small class="timeago" title="2018-07-14T07:25:11.829Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			odoo10默认使用psql10.0+ 换psql版本试试吧。
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="13" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="项目需求合作">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #004c66; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/13/项目需求合作" itemprop="url">
+
+项目需求合作
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/25095">
+				<small class="timeago" title="2018-06-13T07:38:30.552Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="99">99</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="341">341</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #004c66">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/静静">
+				
+				<img class="user-img" title="静静" alt="静静" src="/uploads/profile/6861-profileimg.jpg">
+				
+			</a>
+			<a class="permalink" href="/topic/5103/红包-odoo部署/2">
+				<small class="timeago" title="2018-06-13T07:38:30.552Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			   这个不难吧。
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="14" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Odoo 中文翻译">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #A1B56C; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/14/odoo-中文翻译" itemprop="url">
+
+Odoo 中文翻译
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+			<a class="permalink" href="/post/24585">
+				<small class="timeago" title="2018-03-27T10:54:14.987Z"></small>
+			</a>
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="77">77</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="492">492</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #A1B56C">
+	
+	
+	<div component="category/posts">
+		<p>
+			<a href="/user/jalins">
+				
+				<span class="user-icon user-img" title="jalins" style="background-color: #ff5722;">J</span>
+				
+			</a>
+			<a class="permalink" href="/topic/4954/在导出po翻译文件的时候出了错误-求解/7">
+				<small class="timeago" title="2018-03-27T10:54:14.987Z"></small>
+			</a>
+		</p>
+		<div class="post-content">
+			@保定-粉刷匠 当我导出“采购管理”这个应用的时候一切都是正常的，所以应该不是bug，不然应该是全都不可以导出来，现在真的很纳闷，有一些可以导出来有一些不可以
+
+		</div>
+	</div>
+	
+	
+
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+			<li component="categories/category" data-cid="15" data-numRecentReplies="1" class="row clearfix">
+	<meta itemprop="name" content="Tryton 讨论">
+
+	<div class="content col-xs-12 col-md-7 col-sm-9">
+		<div class="icon pull-left" style="background-color: #0059b2; color: #FFFFFF;">
+			<i class="fa fa-fw fa-comment"></i>
+		</div>
+
+		<h2 class="title">
+			
+
+<a href="/category/15/tryton-讨论" itemprop="url">
+
+Tryton 讨论
+</a>
+
+		</h2>
+		<div>
+			
+			<div class="description">
+				No decsciption available
+			</div>
+			
+			
+			
+			
+		</div>
+		<span class="visible-xs pull-right">
+			
+		</span>
+	</div>
+
+	
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="9">9</span><br />
+		<small>Topics</small>
+	</div>
+	<div class="col-md-1 hidden-sm hidden-xs stats">
+		<span class="unread human-readable-number" title="35">35</span><br />
+		<small>Posts</small>
+	</div>
+	
+	<div class="col-md-3 col-sm-3 teaser hidden-xs" component="topic/teaser">
+		<div class="card" style="border-color: #0059b2">
+	
+
+	
+	<div component="category/posts">
+		<div class="post-content">
+			No new posts.
+		</div>
+	</div>
+	
+</div>
+
+	</div>
+	
+	
+</li>
+
+			
+		</ul>
+	</div>
+	<div widget-area="sidebar" class="col-lg-3 col-sm-12 hidden">
+		
+	</div>
+</div>
+<div widget-area="footer">
+	
+</div>
+<script id="ajaxify-data" type="application/json">{"title":"[[pages:categories]]","categories":[{"cid":2,"name":"公告发布","description":"No decsciption available","icon":"fa-comment","bgColor":"#86C1B9","color":"#FFFFFF","slug":"2/公告发布","parentCid":0,"topic_count":93,"post_count":669,"disabled":false,"order":2,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":2,"_imported_path":"","_imported_name":"公告发布","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","undefined":"on","totalPostCount":669,"totalTopicCount":93,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":23140,"timestamp":1494166930396,"content":"@digitalsatori 感谢校长的整理和各位大咖的整体与提供，内容非常好，希望未来这样的活动交流成为常态，相互学习共同成长！\n","user":{"username":"yangxunbo","userslug":"yangxunbo","picture":"","icon:text":"Y","icon:bgColor":"#1b5e20"},"timestampISO":"2017-05-07T14:22:10.396Z","index":14,"cid":"2","parentCid":0,"topic":{"slug":"4526/odoo-上海开源开发者聚会-5月6日举办成功","title":"Odoo 上海开源开发者聚会 5月6日举办成功"}}],"teaser":{"url":"/post/23140","timestampISO":"2017-05-07T14:22:10.396Z","pid":23140}},{"cid":19,"name":"Odoo 培训","description":"No decsciption available","descriptionParsed":"No decsciption available","icon":"fa-users","bgColor":"#56a5f5","color":"#FFFFFF","slug":"19/odoo-培训","parentCid":0,"topic_count":11,"post_count":29,"disabled":false,"order":19,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","totalPostCount":29,"totalTopicCount":11,"children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":24353,"timestamp":1515654201823,"content":"又翻到一个好东西，Jeffery3年前分享的Odoo库存详解。写得很全，对学习Odoo很有帮助，分享一下\n0_1515654194332_odoo_wms_jeffery.pdf\n","user":{"username":"digitalsatori","userslug":"digitalsatori","picture":"/uploads/profile/1-profileimg.jpg","icon:text":"D","icon:bgColor":"#009688"},"timestampISO":"2018-01-11T07:03:21.823Z","index":1,"cid":"19","parentCid":0,"topic":{"slug":"4884/odoo-库存详解-jeffery","title":"Odoo 库存详解 - Jeffery"}}],"teaser":{"url":"/post/24353","timestampISO":"2018-01-11T07:03:21.823Z","pid":24353}},{"cid":3,"name":"Odoo 开发与实施交流","description":"No decsciption available","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"3/odoo-开发与实施交流","parentCid":0,"topic_count":1904,"post_count":9631,"disabled":false,"order":3,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":3,"_imported_path":"","_imported_name":"Odoo 开发与实施交流","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","undefined":0,"totalPostCount":9631,"totalTopicCount":1904,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25631,"timestamp":1534988084797,"content":"可以使用Odoo的sequence，以purchase为例。\n\n创建采购单的时候自动获取流水号\n @api.model\n    def create(self, vals):\n        if vals.get('name', 'New') == 'New':\n            vals['name'] = self.env['ir.sequence'].next_by_code('purchase.order') or '/'\n        return super(PurchaseOrder, self).create(vals)\n\n","user":{"username":"Joshua","userslug":"joshua","picture":"/assets/uploads/profile/457-profileavatar.jpeg","icon:text":"J","icon:bgColor":"#9c27b0"},"timestampISO":"2018-08-23T01:34:44.797Z","index":2,"cid":"3","parentCid":0,"topic":{"slug":"5209/odoo-如何生成流水号","title":"odoo 如何生成流水号，"}}],"teaser":{"url":"/post/25631","timestampISO":"2018-08-23T01:34:44.797Z","pid":25631}},{"cid":16,"name":"GoodERP 专区","description":"也许是中国使用最多的开源ERP","descriptionParsed":"<p>也许是中国使用最多的开源ERP<\/p>\n","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"16/gooderp-专区","parentCid":0,"topic_count":14,"post_count":51,"disabled":false,"order":16,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","image":"/uploads/category/category-16.png","totalPostCount":51,"totalTopicCount":14,"backgroundImage":"/uploads/category/category-16.png","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25502,"timestamp":1533087544763,"content":"@静静 很酷啊。\ngif应该可以上传了，你再传一次吧。\n","user":{"username":"digitalsatori","userslug":"digitalsatori","picture":"/uploads/profile/1-profileimg.jpg","icon:text":"D","icon:bgColor":"#009688"},"timestampISO":"2018-08-01T01:39:04.763Z","index":5,"cid":16,"parentCid":0,"topic":{"slug":"5190/odoo-框架-mobile-view-小试牛刀","title":"odoo 框架 mobile view 小试牛刀"}}],"teaser":{"url":"/post/25502","timestampISO":"2018-08-01T01:39:04.763Z","pid":25502}},{"cid":4,"name":"Odoo 文档合作","description":"No decsciption available","icon":"fa-comment","bgColor":"#ab1290","color":"#FFFFFF","slug":"4/odoo-文档合作","parentCid":0,"topic_count":67,"post_count":462,"disabled":false,"order":4,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":4,"_imported_path":"","_imported_name":"Odoo 文档合作","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","undefined":0,"totalPostCount":462,"totalTopicCount":67,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25060,"timestamp":1528684973831,"content":"回复: Odoo每天学习10分钟免费视频活动开始了\n","user":{"username":"sarahdddd","userslug":"sarahdddd","picture":"","icon:text":"S","icon:bgColor":"#673ab7"},"timestampISO":"2018-06-11T02:42:53.831Z","index":1,"cid":"4","parentCid":0,"topic":{"slug":"5095/为什么我看不见链接呢","title":"为什么我看不见链接呢"}}],"teaser":{"url":"/post/25060","timestampISO":"2018-06-11T02:42:53.831Z","pid":25060}},{"cid":5,"name":"Python 开发","description":"No decsciption available","icon":"fa-comment","bgColor":"#A16946","color":"#FFFFFF","slug":"5/python-开发","parentCid":0,"topic_count":42,"post_count":185,"disabled":false,"order":5,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":5,"_imported_path":"","_imported_name":"Python 开发","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","undefined":0,"totalPostCount":185,"totalTopicCount":42,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25630,"timestamp":1534907962774,"content":"不知道你说的模块是python的模块还是odoo的模块，如果你是odoo的模块，可以尝试\nfrom odoo.addons.odoo_test import excelTool\n","user":{"username":"Joshua","userslug":"joshua","picture":"/assets/uploads/profile/457-profileavatar.jpeg","icon:text":"J","icon:bgColor":"#9c27b0"},"timestampISO":"2018-08-22T03:19:22.774Z","index":6,"cid":"5","parentCid":0,"topic":{"slug":"5217/ubuntu环境-odoo框架-在我本地环境-import自定义的模块没有问题-但是到服务器环境就提示报错-importerror-no-module-named-xxx","title":"ubuntu环境，odoo框架，在我本地环境，import自定义的模块没有问题，但是到服务器环境就提示报错：ImportError: No module named XXX"}}],"teaser":{"url":"/post/25630","timestampISO":"2018-08-22T03:19:22.774Z","pid":25630}},{"cid":6,"name":"Odoo 新手求助","description":"No decsciption available","icon":"fa-comment","bgColor":"#004c66","color":"#FFFFFF","slug":"6/odoo-新手求助","parentCid":0,"topic_count":2163,"post_count":10036,"disabled":false,"order":6,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":6,"_imported_path":"","_imported_name":"Odoo 新手求助","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":10036,"totalTopicCount":2163,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25629,"timestamp":1534821325539,"content":"\n日历里面创建一个事项 重复每天执行 ，循环次数N次，除了第一条会在数据库创建，其他的都是动态生成的（没有在数据库存储，是根据第一条生成的）， 那么问题来了 动态生成的会很影响内存吗？  odoo 有没有做什么处理 比如第一次查询完 就释放之类的\n\n","user":{"username":"like_odoo","userslug":"like_odoo","picture":"","icon:text":"L","icon:bgColor":"#ff5722"},"timestampISO":"2018-08-21T03:15:25.539Z","index":1,"cid":"6","parentCid":0,"topic":{"slug":"5220/日历里面创建一个事项-重复每天执行-循环次数n次-占用内存吗","title":"日历里面创建一个事项 重复每天执行 ，循环次数N次，占用内存吗?"}}],"teaser":{"url":"/post/25629","timestampISO":"2018-08-21T03:15:25.539Z","pid":25629}},{"cid":7,"name":"集思广益","description":"No decsciption available","icon":"fa-comment","bgColor":"#ab1290","color":"#FFFFFF","slug":"7/集思广益","parentCid":0,"topic_count":92,"post_count":449,"disabled":false,"order":7,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":8,"_imported_path":"","_imported_name":"集思广益","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":449,"totalTopicCount":92,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25550,"timestamp":1533615985790,"content":"谢谢！\n","user":{"username":"ap1689","userslug":"ap1689","picture":"","icon:text":"A","icon:bgColor":"#2196f3"},"timestampISO":"2018-08-07T04:26:25.790Z","index":13,"cid":"7","parentCid":0,"topic":{"slug":"5194/hexya-长的很像odoo","title":"hexya - 长的很像Odoo"}}],"teaser":{"url":"/post/25550","timestampISO":"2018-08-07T04:26:25.790Z","pid":25550}},{"cid":8,"name":"Linux使用及技巧","description":"No decsciption available","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"8/linux使用及技巧","parentCid":0,"topic_count":16,"post_count":50,"disabled":false,"order":8,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":10,"_imported_path":"","_imported_name":"Linux使用及技巧","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":50,"totalTopicCount":16,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":24448,"timestamp":1519989578010,"content":"对，就是这样。\n先获得权限，然后修改。\n","user":{"username":"保定-粉刷匠","userslug":"保定-粉刷匠","picture":"/assets/uploads/profile/1494-profileavatar.jpeg","icon:text":"保","icon:bgColor":"#9c27b0"},"timestampISO":"2018-03-02T11:19:38.010Z","index":4,"cid":"8","parentCid":0,"topic":{"slug":"4914/ubuntu-能ping通ip-不能上网","title":"ubuntu 能ping通ip，不能上网"}}],"teaser":{"url":"/post/24448","timestampISO":"2018-03-02T11:19:38.010Z","pid":24448}},{"cid":18,"name":"Frappé&#x2F;ERPNext","description":"No decsciption available","descriptionParsed":"No decsciption available","icon":"fa-comment","bgColor":"#004c66","color":"#FFFFFF","slug":"18/frappé-erpnext","parentCid":0,"topic_count":1,"post_count":4,"disabled":false,"order":18,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","image":"/uploads/category/category-18.svg","totalPostCount":4,"totalTopicCount":1,"backgroundImage":"/uploads/category/category-18.svg","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":22642,"timestamp":1483798376080,"content":"为什么想到玩这个了？\n","user":{"username":"wjfonhand","userslug":"wjfonhand","picture":"/uploads/profile/28-profileimg.jpg","icon:text":"W","icon:bgColor":"#1b5e20"},"timestampISO":"2017-01-07T14:12:56.080Z","index":4,"cid":"18","parentCid":0,"topic":{"slug":"4388/erpnext-对odoo社区的倡议书","title":"ERPNext 对Odoo社区的倡议书"}}],"teaser":{"url":"/post/22642","timestampISO":"2017-01-07T14:12:56.080Z","pid":22642}},{"cid":9,"name":"技术之美","description":"No decsciption available","icon":"fa-comment","bgColor":"#004c66","color":"#FFFFFF","slug":"9/技术之美","parentCid":0,"topic_count":22,"post_count":86,"disabled":false,"order":9,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":14,"_imported_path":"","_imported_name":"技术之美","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":86,"totalTopicCount":22,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[]},{"cid":10,"name":"Odoo 新闻","description":"No decsciption available","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"10/odoo-新闻","parentCid":0,"topic_count":112,"post_count":478,"disabled":false,"order":10,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":15,"_imported_path":"","_imported_name":"Odoo 新闻","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":478,"totalTopicCount":112,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25419,"timestamp":1531977621686,"content":"@digitalsatori  \n测试中发现，按下Alt 键，现在还能显示 可用的快捷键：\n\n另外新增加的 Section 和 Note 在打印中 都会输出：\n\n","user":{"username":"卓忆","userslug":"卓忆","picture":"/uploads/profile/2738-profileimg.jpg","icon:text":"卓","icon:bgColor":"#607d8b"},"timestampISO":"2018-07-19T05:20:21.686Z","index":3,"cid":"10","parentCid":0,"topic":{"slug":"5165/odoo-v12-新特性-preview-add-control-create-tags-to-customize-add-a-line","title":"Odoo V12 新特性 Preview - add control + create tags to customize &quot;add a line&quot;"}}],"teaser":{"url":"/post/25419","timestampISO":"2018-07-19T05:20:21.686Z","pid":25419}},{"cid":11,"name":"Odoo 系统测试","description":"No decsciption available","icon":"fa-comment","bgColor":"#A1B56C","color":"#FFFFFF","slug":"11/odoo-系统测试","parentCid":0,"topic_count":107,"post_count":517,"disabled":false,"order":11,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":16,"_imported_path":"","_imported_name":"Odoo 系统测试","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":517,"totalTopicCount":107,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[]},{"cid":12,"name":"Odoo 安装指南","description":"No decsciption available","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"12/odoo-安装指南","parentCid":0,"topic_count":350,"post_count":2061,"disabled":false,"order":12,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":17,"_imported_path":"","_imported_name":"Odoo 安装指南","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":2061,"totalTopicCount":350,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25371,"timestamp":1531553111829,"content":"odoo10默认使用psql10.0+ 换psql版本试试吧。\n","user":{"username":"Eillion Deamon","userslug":"eillion-deamon","picture":"/assets/uploads/profile/9178-profileavatar.png","icon:text":"E","icon:bgColor":"#f44336"},"timestampISO":"2018-07-14T07:25:11.829Z","index":4,"cid":12,"parentCid":0,"topic":{"slug":"4279/win10-64位下如何安装odoo10","title":"Win10 64位下如何安装odoo10"}}],"teaser":{"url":"/post/25371","timestampISO":"2018-07-14T07:25:11.829Z","pid":25371}},{"cid":13,"name":"项目需求合作","description":"No decsciption available","icon":"fa-comment","bgColor":"#004c66","color":"#FFFFFF","slug":"13/项目需求合作","parentCid":0,"topic_count":99,"post_count":341,"disabled":false,"order":13,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":20,"_imported_path":"","_imported_name":"项目需求合作","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":341,"totalTopicCount":99,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":25095,"timestamp":1528875510552,"content":"   这个不难吧。\n","user":{"username":"静静","userslug":"静静","picture":"/uploads/profile/6861-profileimg.jpg","icon:text":"静","icon:bgColor":"#f44336"},"timestampISO":"2018-06-13T07:38:30.552Z","index":2,"cid":"13","parentCid":0,"topic":{"slug":"5103/红包-odoo部署","title":"红包--odoo部署"}}],"teaser":{"url":"/post/25095","timestampISO":"2018-06-13T07:38:30.552Z","pid":25095}},{"cid":14,"name":"Odoo 中文翻译","description":"No decsciption available","icon":"fa-comment","bgColor":"#A1B56C","color":"#FFFFFF","slug":"14/odoo-中文翻译","parentCid":0,"topic_count":77,"post_count":492,"disabled":false,"order":14,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":21,"_imported_path":"","_imported_name":"Odoo 中文翻译","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":492,"totalTopicCount":77,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[{"pid":24585,"timestamp":1522148054987,"content":"@保定-粉刷匠 当我导出“采购管理”这个应用的时候一切都是正常的，所以应该不是bug，不然应该是全都不可以导出来，现在真的很纳闷，有一些可以导出来有一些不可以\n","user":{"username":"jalins","userslug":"jalins","picture":"","icon:text":"J","icon:bgColor":"#ff5722"},"timestampISO":"2018-03-27T10:54:14.987Z","index":7,"cid":14,"parentCid":0,"topic":{"slug":"4954/在导出po翻译文件的时候出了错误-求解","title":"在导出PO翻译文件的时候出了错误，求解！"}}],"teaser":{"url":"/post/24585","timestampISO":"2018-03-27T10:54:14.987Z","pid":24585}},{"cid":15,"name":"Tryton 讨论","description":"No decsciption available","icon":"fa-comment","bgColor":"#0059b2","color":"#FFFFFF","slug":"15/tryton-讨论","parentCid":0,"topic_count":9,"post_count":35,"disabled":false,"order":15,"link":"","numRecentReplies":1,"class":"col-md-3 col-xs-6","imageClass":"cover","_imported_cid":22,"_imported_path":"","_imported_name":"Tryton 讨论","_imported_slug":"","_imported_parentCid":"","_imported_disabled":0,"_imported_description":"No decsciption available","totalPostCount":35,"totalTopicCount":9,"descriptionParsed":"No decsciption available","children":[],"tagWhitelist":[],"unread-class":"unread","posts":[]}],"breadcrumbs":[{"text":"[[global:home]]","url":"/"},{"text":"[[pages:categories]]"}],"loggedIn":false,"relative_path":"","template":{"name":"categories","categories":true},"url":"/categories","bodyClass":"page-categories page-status-200","widgets":{"header":[{"html":"<style type=\"text/css\">\r\n div.alert-info img {\r\n    float: right;\r\n    margin: 0 0 10px 10px;\r\n}\r\n<\/style>\r\n<div class=\"alert ui-draggable-handle alert-info\">\r\n<img src=\"/assets/images/wechat_openerp.jpg\"  width=\"100\">\r\n<p>\r\nOdoo中文社区可以通过以下三个域名访问：shine-it.net , odoocn.org，odoo.net.cn\r\n<\/p>\r\n<p>原论坛用户的基本信息和发帖这里都予以保留，<b>请注意<\/b>：原论坛用户<b>无需<\/b>重新注册新用户，但是您的密码需要<a target=\"_blank\" href=\"http://odoo.net.cn/reset\">重置<\/a><\/p>\r\n<p>开发人员可以登录gitter讨论组: <a target=\"blank\" href=\"http://gitter.im/odoo-china/Talk\"> http://gitter.im/odoo-china/Talk<\/a>, 需要github账号\r\n<p>如果您登录系统碰到问题，请在微信公众号留言：<\/p>\r\n\r\n<\/div>"}]}}</script>		</div>
+	</main>
+	
+	<div class="topic-search hidden">
+		<div class="btn-group">
+			<button type="button" class="btn btn-default count"></button>
+			<button type="button" class="btn btn-default prev"><i class="fa fa-fw fa-angle-up"></i></button>
+			<button type="button" class="btn btn-default next"><i class="fa fa-fw fa-angle-down"></i></button>
+		</div>
+	</div>
+
+	<div component="toaster/tray" class="alert-window">
+		<div id="reconnect-alert" class="alert alert-dismissable alert-warning clearfix hide" component="toaster/toast">
+			<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+			<p>Looks like your connection to Odoo 中文社区 was lost, please wait while we try to reconnect.</p>
+		</div>
+	</div>
+	
+
+
+	<script defer src="/assets/nodebb.min.js?v=g2dms8bc29c"></script>
+
+	
+	<script defer type="text/javascript" src="/assets/vendor/jquery/timeago/locales/jquery.timeago.en.js"></script>
+	
+
+	<script>
+		window.addEventListener('load', function () {
+			require(['forum/footer']);
+
+			
+		});
+	</script>
+
+	<div class="hide">
+	<script>
+	window.addEventListener('load', function () {
+		define(config.relative_path + '/assets/templates/500.js', function () {
+			function compiled(helpers, context, get, iter, helper) {
+				return '<div class="alert alert-danger">\n\t<strong>Internal Error.</strong>\n\t<p>Oops! Looks like something went wrong!</p>\n\t<p>' + 
+					helpers.__escape(get(context && context['path'])) + '</p>\n\t' + 
+					(get(context && context['error']) ? '<p>' + helpers.__escape(get(context && context['error'])) + '</p>' : '') + '\n\n\t' + 
+					(get(context && context['returnLink']) ? '\n\t<p>Press back to return to the previous page</p>\n\t' : '') + '\n</div>\n';
+			}
+
+			return compiled;
+		});
+	});
+</script>
+	</div>
+</body>
+</html>

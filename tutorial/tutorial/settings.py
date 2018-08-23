@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 COOKIES_ENABLED = False
 COOKIES_ENABLES = False
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 # 设置爬虫爬取的最大深度
 DEPTH_LIMIT = 100
 # 设置Pipeline,此处实现数据写入文件
@@ -63,7 +63,8 @@ ITEM_PIPELINES = {
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-   'tutorial.middlewares.TutorialDownloaderMiddleware': 543,
+   'tutorial.middlewares.middleware.PhantomJSMiddleware': 543,  # 键为中间件类的路径，值为中间件的顺序
+   'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware':None, #禁止内置的中间件
 }
 
 # Enable or disable extensions
